@@ -2,11 +2,15 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **Full stack development**
+- 🎓 Completed Full Stack Development Program at GUVI
 
-- 💬 Ask me about **Basic javascript**
+- 💼 Actively seeking opportunities as a Full Stack Developer
 
-- 📫 How to reach me **deepak356575@gmail.com**
+- 🌱 Building projects using React, Node.js, MongoDB, MySQL, HTML, CSS, and JavaScript
+
+- 🚀 Passionate about creating responsive and user-friendly web applications
+
+- 🚀 Portfolio: https://ozbourne-portfolio.netlify.app/
 
 - ⚡ Fun fact **Coding will soon be as important as reading..**
 
